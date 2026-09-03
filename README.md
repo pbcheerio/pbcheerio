@@ -7,10 +7,10 @@
   Scikit-learn, Seaborn, Jupyter Notebooks, VSCode
   
 - 🌱 **I’m expanding my knowledge on** ... Tableau Desktop, SQL, Power BL, + project/program management
-- 👯 **I’m looking to collaborate on** ... Hackathons! Demo Projects !
+- 👯 **I’m looking to collab on** ... Hackathons! Demo Projects !
 - 🤔 **I’m looking for help with** ... Networking !
  
 - 💬 **Ask me about** ... my love for animals, the environment, immigrant and lgbtq rights !
 - 📫 **How to reach me:** ... (https://www.linkedin.com/in/palobecerra/)
 - 	:transgender_symbol: **Pronouns:** ... They / Them
-- :jack_o_lantern: **Fun fact:** ... I love sci fi, horror, video games, and baking with sourdough !
+- :jack_o_lantern: **Fun facts:** ... I love sci fi, horror, video games, and baking with sourdough !
