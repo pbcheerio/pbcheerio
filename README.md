@@ -4,7 +4,7 @@ hey y'all✨
 - :dart: I'm seeking ... Technical PM / Data Science roles!
 - :pushpin:	I have tech experience with ... Tableau, SQL, Excel, Python, Google BigQuery, Matplotlib, Pandas, Numpy,
 
- Scikit-learn, Seaborn, Jupyter Notebooks, VSCode,
+  Scikit-learn, Seaborn, Jupyter Notebooks, VSCode,
   
 - 🌱 I’m expanding my knowledge on ... Tableau Desktop, SQL, Power BL, + more
 - 👯 I’m looking to collaborate on ... Hackathons! Demo Projects !
