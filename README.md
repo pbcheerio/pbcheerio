@@ -6,7 +6,7 @@
 
   Scikit-learn, Seaborn, Jupyter Notebooks, VSCode,
   
-- 🌱 **I’m expanding my knowledge on** ... Tableau Desktop, SQL, Power BL, + more
+- 🌱 **I’m expanding my knowledge on** ... Tableau Desktop, SQL, Power BL, + project/program management
 - 👯 **I’m looking to collaborate on** ... Hackathons! Demo Projects !
 - 🤔 **I’m looking for help with** ... Networking !
  
