@@ -12,5 +12,5 @@
  
 - 💬 **Ask me about** ... My love for animals, the environment, immigrant and lgbtq rights !
 - 📫 **How to reach me:** ... (https://www.linkedin.com/in/palobecerra/)
-- 😄 **Pronouns:** ... They / Them
-- ⚡ **Fun fact:** ... I love to bake sourdough pretzels !
+- 	:transgender_symbol: **Pronouns:** ... They / Them
+- :jack_o_lantern: **Fun fact:** ... I love sci fi, horror, video games, and baking with sourdough !
