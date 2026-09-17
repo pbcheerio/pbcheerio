@@ -1,7 +1,7 @@
 ## hey y'all✨
 
 - 🔭 **I’m currently** ... finishing up my Data Analytics '26 Innovation Fellowship with TKH (The Knowledge House)
-- :dart: **I'm seeking** ... Technical PM / Data Science / Helpdesk roles!
+- :dart: **I'm seeking** ... Help Desk / Data Science / Technical PM roles!
 - :pushpin:	**I have experience with** ... Excel, GitHub, Google BigQuery, Jupyter Notebook, Python (Matplotlib, NumPy, Pandas, Scikit-learn, Seaborn), SQL, Tableau, VSCode
 - 🌱 **I’m expanding my knowledge on** ... Tableau Desktop, SQL, Power BL, + project/program management
 - 👯 **I’m looking to collab on** ... Hackathons! Demo Projects !
