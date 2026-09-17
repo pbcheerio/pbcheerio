@@ -5,7 +5,7 @@
 - :pushpin:	**I have experience with** ... Excel, GitHub, Google BigQuery, Jupyter Notebook, Python (Matplotlib, NumPy, Pandas, Scikit-learn, Seaborn), SQL, Tableau, VSCode
 - 🌱 **I’m expanding my knowledge on** ... Tableau Desktop, SQL, Power BL, + project/program management
 - 👯 **I’m looking to collab on** ... Hackathons! Demo Projects !
-- 🤔 **I’m looking for help with** ... Networking !
+- 🤔 **I’m looking for help with** ... Networking ! Job Opportunities !
  
 - 💬 **Ask me about** ... my love for animals, the environment, immigrant and lgbtq rights !
 - 📫 **How to reach me:** ... (https://www.linkedin.com/in/palobecerra/)
